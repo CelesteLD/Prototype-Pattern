@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="68aa9424-6333-4c2e-9937-0345a97d59a1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prototype.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prototype.plantuml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/blue.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/green.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/orange.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/play.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/purple.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/es/ull/patrones/app/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/es/ull/patrones/app/app.plantuml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/es/ull/patrones/gui/InformationFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/es/ull/patrones/gui/MainFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/es/ull/patrones/gui/gui.plantuml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/es/ull/patrones/prototype/manager/ManagerMonster.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/es/ull/patrones/prototype/manager/manager.plantuml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/es/ull/patrones/prototype/manager/manager.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/es/ull/patrones/prototype/monsters/BlueMonster.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/es/ull/patrones/prototype/monsters/GreenMonster.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/es/ull/patrones/prototype/monsters/Monster.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/es/ull/patrones/prototype/monsters/MonsterPrototype.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/es/ull/patrones/prototype/monsters/OrangeMonster.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/es/ull/patrones/prototype/monsters/PurpleMonster.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/es/ull/patrones/prototype/monsters/monsters.plantuml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src.plantuml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2JSOznKsst9bW2vh4dZbVxi7iFe" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/celes/Desktop/Prototype/src/es/ull/patrones/prototype/manager"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Prototype" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Prototype" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="68aa9424-6333-4c2e-9937-0345a97d59a1" name="Changes" comment="" />
+      <created>1672068285000</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1672068285000</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
